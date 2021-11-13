@@ -10,4 +10,4 @@ Throughout the project you will be able to find:
 - Data cleaning and standardization.
 - Analysis of Relevant features to build the model.
 - KNN Model for book prediction and recommendations.
-
+- Model testing.
